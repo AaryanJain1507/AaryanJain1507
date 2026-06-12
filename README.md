@@ -1,7 +1,6 @@
 <!-- Header Banner -->
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Hey%20there!%20I'm%20Aaryan%20👋&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32&desc=AI/ML%20Developer%20%7C%20Gen%20AI%20Enthusiast%20%7C%20BTech%20CS%20(AIML%20%26%20IoT)&descAlignY=55&descSize=16" />
-</div>
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=32&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&width=600&lines=Hey+there!+I'm+Aaryan+%F0%9F%91%8B;AI%2FML+Developer;Gen+AI+Enthusiast" alt="Typing SVG" />
 
 <!-- Animated divider -->
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
